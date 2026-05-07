@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">Q版头像彩色成品</title>
+  <desc id="desc">Q版人物头像成品站在黄色台面上，身后是照片参考和颜料盘。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fcf6e8"/>
+      <stop offset="1" stop-color="#b9d6ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="680" fill="url(#bg)"/>
+  <rect x="0" y="476" width="900" height="204" fill="#f0c95d"/>
+  <ellipse cx="455" cy="550" rx="236" ry="42" fill="#855c28" opacity=".2"/>
+  <circle cx="444" cy="296" r="148" fill="#f1c8a8" stroke="#2b3432" stroke-width="8"/>
+  <path d="M303 265c34-92 122-130 218-94 46 17 72 54 83 101-52-24-102-30-151-13-55 19-104 21-150 6z" fill="#2b2a26" stroke="#2b3432" stroke-width="8"/>
+  <circle cx="390" cy="317" r="13" fill="#222"/>
+  <circle cx="499" cy="317" r="13" fill="#222"/>
+  <path d="M413 370c25 19 52 20 81 0" fill="none" stroke="#a44d44" stroke-width="8" stroke-linecap="round"/>
+  <path d="M335 438h220c56 0 100 44 100 100v24H235v-24c0-56 44-100 100-100z" fill="#2f8e7e" stroke="#2b3432" stroke-width="8"/>
+  <path d="M382 441l62 68 62-68" fill="#fcf6e8" stroke="#2b3432" stroke-width="7" stroke-linejoin="round"/>
+  <rect x="92" y="102" width="172" height="228" rx="8" fill="#fffaf0" stroke="#2b3432" stroke-width="7"/>
+  <circle cx="178" cy="180" r="46" fill="#f1c8a8"/>
+  <rect x="132" y="246" width="92" height="34" rx="17" fill="#2f8e7e"/>
+  <circle cx="708" cy="220" r="82" fill="#fffaf0" stroke="#2b3432" stroke-width="7"/>
+  <circle cx="676" cy="204" r="22" fill="#e56f57"/>
+  <circle cx="726" cy="194" r="22" fill="#2f8e7e"/>
+  <circle cx="728" cy="246" r="22" fill="#f0c95d"/>
+</svg>
