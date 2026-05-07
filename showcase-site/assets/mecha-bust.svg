@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">机甲胸像拆件白膜</title>
+  <desc id="desc">机甲胸像以拆件白膜形式展示，旁边放着编号部件。</desc>
+  <rect width="900" height="680" fill="#e9f1ec"/>
+  <path d="M0 442h900v238H0z" fill="#23302e"/>
+  <path d="M129 90h642v398H129z" fill="#f8ead2" stroke="#23302e" stroke-width="8"/>
+  <path d="M299 316l55-112h190l60 112-56 120H351z" fill="#f7f4eb" stroke="#23302e" stroke-width="9" stroke-linejoin="round"/>
+  <path d="M372 196l44-70h74l44 70z" fill="#cfdad5" stroke="#23302e" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M365 260h170l-25 66H390z" fill="#23302e"/>
+  <path d="M400 278h58M488 278h22" stroke="#7bc4b2" stroke-width="10" stroke-linecap="round"/>
+  <path d="M351 436l-48 68h294l-49-68z" fill="#bfc9c3" stroke="#23302e" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M250 344l-92-50v120l92 42zM650 344l92-50v120l-92 42z" fill="#f7f4eb" stroke="#23302e" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="164" cy="540" r="48" fill="#f7f4eb" stroke="#e56f57" stroke-width="8"/>
+  <path d="M139 540h50M164 515v50" stroke="#23302e" stroke-width="8" stroke-linecap="round"/>
+  <rect x="662" y="514" width="116" height="60" rx="6" fill="#f7f4eb" stroke="#f0c95d" stroke-width="8"/>
+  <path d="M690 544h60" stroke="#23302e" stroke-width="8" stroke-linecap="round"/>
+  <text x="158" y="160" font-size="42" font-family="Georgia, serif" fill="#23302e">07</text>
+</svg>
