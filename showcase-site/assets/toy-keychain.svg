@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">潮玩钥匙扣样品</title>
+  <desc id="desc">潮玩钥匙扣摆件带钥匙环，背景是颜色测试卡。</desc>
+  <rect width="900" height="680" fill="#f6eee0"/>
+  <path d="M0 470c104-34 210-38 318-8 138 38 256 34 358-14 84-40 158-42 224-18v250H0z" fill="#b9d6ef"/>
+  <ellipse cx="472" cy="546" rx="236" ry="48" fill="#46606c" opacity=".22"/>
+  <circle cx="450" cy="342" r="158" fill="#e56f57" stroke="#24302e" stroke-width="8"/>
+  <circle cx="397" cy="328" r="23" fill="#fffaf0"/>
+  <circle cx="506" cy="328" r="23" fill="#fffaf0"/>
+  <circle cx="397" cy="328" r="9" fill="#24302e"/>
+  <circle cx="506" cy="328" r="9" fill="#24302e"/>
+  <path d="M411 400c26 18 58 18 84 0" fill="none" stroke="#fffaf0" stroke-width="10" stroke-linecap="round"/>
+  <path d="M318 262c-40-16-68-48-84-96 64 7 110 28 138 64zM582 262c40-16 68-48 84-96-64 7-110 28-138 64z" fill="#f0c95d" stroke="#24302e" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="450" cy="144" r="54" fill="none" stroke="#24302e" stroke-width="16"/>
+  <path d="M450 198v60" stroke="#24302e" stroke-width="14" stroke-linecap="round"/>
+  <rect x="108" y="108" width="82" height="252" rx="8" fill="#2f8e7e"/>
+  <rect x="206" y="108" width="82" height="252" rx="8" fill="#f0c95d"/>
+  <rect x="304" y="108" width="82" height="120" rx="8" fill="#23302e"/>
+  <path d="M650 492l100 44 48-106" fill="none" stroke="#fffaf0" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
