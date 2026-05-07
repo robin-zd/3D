@@ -1,0 +1,289 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>三维白膜工坊 | 3D打印定制作品与报价</title>
+    <meta
+      name="description"
+      content="面向定制模型、宠物纪念、原创IP、桌面摆件的3D打印作品展示与预估报价工具。"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="三维白膜工坊首页">
+        <span class="brand-mark" aria-hidden="true">3D</span>
+        <span>
+          <strong>三维白膜工坊</strong>
+          <small>定制模型打印与上色</small>
+        </span>
+      </a>
+      <nav class="nav-links" aria-label="主导航">
+        <a href="#works">作品</a>
+        <a href="#quote">报价</a>
+        <a href="#process">流程</a>
+        <a href="#contact">联系</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero-band">
+        <div class="hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">从想法、参考图到能拿在手里的模型</p>
+            <h1>定制 3D 打印作品展示和预估报价</h1>
+            <p class="hero-text">
+              客户可以按用途、风格、交付形式筛选案例，也能直接比较整件白膜、拆件白膜、上色成品三种方案的预算和周期。
+            </p>
+            <div class="hero-actions">
+              <a class="primary-action" href="#quote">估算我的订单</a>
+              <a class="secondary-action" href="#works">查看作品样品</a>
+            </div>
+          </div>
+
+          <aside class="bench-preview" aria-label="热门定制样品预览">
+            <div class="bench-rail">
+              <span>白膜</span>
+              <span>拆件</span>
+              <span>上色</span>
+            </div>
+            <img src="./assets/pet-memory.svg" alt="宠物纪念摆件白膜样品" />
+            <div class="bench-note">
+              <strong>热门需求：宠物纪念摆件</strong>
+              <span>8-12cm，治愈风，适合白膜自涂或上色成品。</span>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section id="works" class="section-band works-band">
+        <div class="section-heading">
+          <p class="eyebrow">按需求找参考</p>
+          <h2>作品展示</h2>
+          <p>下面是可替换的样品位，后续把图片换成你的真实打印案例即可。</p>
+        </div>
+
+        <div class="filter-panel" aria-label="作品筛选">
+          <button class="filter-button is-active" type="button" data-filter="all">全部</button>
+          <button class="filter-button" type="button" data-filter="pet">宠物纪念</button>
+          <button class="filter-button" type="button" data-filter="chibi">Q版可爱</button>
+          <button class="filter-button" type="button" data-filter="mecha">机甲/硬表面</button>
+          <button class="filter-button" type="button" data-filter="gift">礼物成品</button>
+          <button class="filter-button" type="button" data-filter="blank">白膜自涂</button>
+        </div>
+
+        <div class="work-grid" id="workGrid">
+          <article class="work-card" data-tags="pet gift blank">
+            <img src="./assets/pet-memory.svg" alt="宠物纪念摆件白膜样品" />
+            <div class="work-content">
+              <span class="work-type">宠物纪念 / 白膜</span>
+              <h3>圆脸猫咪纪念摆件</h3>
+              <p>适合 8-12cm 整件白膜，客户可自己上色，也可升级为柔和手涂成品。</p>
+              <div class="tag-row">
+                <span>整件白膜</span>
+                <span>颜料包</span>
+                <span>7-10天</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card" data-tags="chibi gift">
+            <img src="./assets/chibi-avatar.svg" alt="Q版头像彩色成品" />
+            <div class="work-content">
+              <span class="work-type">人物头像 / 上色</span>
+              <h3>Q版头像桌面摆件</h3>
+              <p>适合生日礼物、同事纪念，五官和服装保留识别点，整体更耐看。</p>
+              <div class="tag-row">
+                <span>整件上色</span>
+                <span>礼物</span>
+                <span>10-14天</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card" data-tags="mecha blank">
+            <img src="./assets/mecha-bust.svg" alt="机甲胸像拆件白膜" />
+            <div class="work-content">
+              <span class="work-type">机甲胸像 / 拆件</span>
+              <h3>硬表面机甲胸像</h3>
+              <p>适合拆件白膜，肩甲、底座、头盔分件后细节更清楚，上色也更方便。</p>
+              <div class="tag-row">
+                <span>拆件白膜</span>
+                <span>插销结构</span>
+                <span>12-18天</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card" data-tags="chibi blank">
+            <img src="./assets/toy-keychain.svg" alt="潮玩钥匙扣样品" />
+            <div class="work-content">
+              <span class="work-type">潮玩 / 小件</span>
+              <h3>原创IP钥匙扣</h3>
+              <p>适合批量测试小尺寸，优先控制支撑痕迹和挂环强度。</p>
+              <div class="tag-row">
+                <span>5-8cm</span>
+                <span>小件</span>
+                <span>可批量</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card" data-tags="gift chibi">
+            <img src="./assets/couple-gift.svg" alt="情侣纪念上色成品" />
+            <div class="work-content">
+              <span class="work-type">情侣纪念 / 成品</span>
+              <h3>双人礼物展示盒</h3>
+              <p>适合成品交付，包含打磨、上色、组装和基础展示盒。</p>
+              <div class="tag-row">
+                <span>上色成品</span>
+                <span>展示盒</span>
+                <span>送礼</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="work-card" data-tags="blank pet">
+            <img src="./assets/desk-figure.svg" alt="桌面摆件整件白膜" />
+            <div class="work-content">
+              <span class="work-type">桌面摆件 / 白膜</span>
+              <h3>治愈系整件白膜</h3>
+              <p>适合第一次定制，结构整体、费用更可控，后续可追加颜料包。</p>
+              <div class="tag-row">
+                <span>预算友好</span>
+                <span>整件</span>
+                <span>入门款</span>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="quote" class="section-band quote-band">
+        <div class="section-heading">
+          <p class="eyebrow">先给客户一个区间</p>
+          <h2>预估报价器</h2>
+          <p>输入尺寸、复杂度和交付要求，自动生成三档报价方案。实际下单前仍需要看参考图和模型可打印性。</p>
+        </div>
+
+        <div class="quote-layout">
+          <form class="quote-form" id="quoteForm">
+            <label>
+              定制用途
+              <select id="purpose">
+                <option value="pet">宠物纪念</option>
+                <option value="gift">生日/情侣礼物</option>
+                <option value="ip">原创IP/潮玩</option>
+                <option value="desk">桌面摆件</option>
+                <option value="mecha">机甲/复杂模型</option>
+              </select>
+            </label>
+
+            <label>
+              目标尺寸
+              <input id="height" type="range" min="5" max="18" value="10" />
+              <span class="range-readout"><strong id="heightValue">10</strong> cm</span>
+            </label>
+
+            <label>
+              模型复杂度
+              <select id="complexity">
+                <option value="simple">简单，整体结构</option>
+                <option value="standard" selected>标准，有明显细节</option>
+                <option value="complex">复杂，多部件或硬表面</option>
+              </select>
+            </label>
+
+            <label>
+              颜色数量
+              <input id="colors" type="number" min="1" max="12" value="4" />
+            </label>
+
+            <label class="checkbox-label">
+              <input id="displayBox" type="checkbox" checked />
+              需要基础展示盒
+            </label>
+
+            <label class="checkbox-label">
+              <input id="rush" type="checkbox" />
+              需要加急排期
+            </label>
+          </form>
+
+          <div class="plans" id="plans" aria-live="polite">
+            <article class="plan-card">
+              <span class="plan-label">方案 A</span>
+              <h3>整件白膜 + 颜料包</h3>
+              <p class="price" id="priceA">¥0</p>
+              <p class="plan-meta" id="timeA">周期待估</p>
+              <ul>
+                <li>适合预算有限、想自己体验上色</li>
+                <li>包含概念图、基础模型、整件打印、简单打磨</li>
+                <li>结构复杂时会建议改成拆件白膜</li>
+              </ul>
+            </article>
+
+            <article class="plan-card is-recommended">
+              <span class="plan-label">方案 B</span>
+              <h3>拆件白膜 + 颜料包</h3>
+              <p class="price" id="priceB">¥0</p>
+              <p class="plan-meta" id="timeB">周期待估</p>
+              <ul>
+                <li>适合复杂结构和后续精细上色</li>
+                <li>包含四视图、模型修整、拆件、连接结构</li>
+                <li>多数第一次定制比较稳的选择</li>
+              </ul>
+            </article>
+
+            <article class="plan-card">
+              <span class="plan-label">方案 C</span>
+              <h3>上色成品 + 展示盒</h3>
+              <p class="price" id="priceC">¥0</p>
+              <p class="plan-meta" id="timeC">周期待估</p>
+              <ul>
+                <li>适合送礼、收藏、直接摆放</li>
+                <li>包含打磨、上色、组装、展示盒和包装</li>
+                <li>最终价格受颜色数量和上色复杂度影响较大</li>
+              </ul>
+            </article>
+          </div>
+        </div>
+
+        <div class="quote-summary" id="quoteSummary"></div>
+      </section>
+
+      <section id="process" class="section-band process-band">
+        <div class="section-heading">
+          <p class="eyebrow">从沟通到发货</p>
+          <h2>制作流程</h2>
+        </div>
+        <ol class="process-list">
+          <li><strong>需求整理</strong><span>用途、风格、尺寸、预算、参考图。</span></li>
+          <li><strong>概念确认</strong><span>先确认整体感觉，再进入建模和可打印评估。</span></li>
+          <li><strong>拆件切片</strong><span>判断支撑、连接、耗材、机时和失败风险。</span></li>
+          <li><strong>打印后处理</strong><span>白膜清理、打磨；成品方案继续上色、组装。</span></li>
+          <li><strong>包装交付</strong><span>发货前拍照确认，保留案例素材和售后记录。</span></li>
+        </ol>
+      </section>
+
+      <section id="contact" class="section-band contact-band">
+        <div>
+          <p class="eyebrow">开始定制</p>
+          <h2>把参考图和预算发给我</h2>
+          <p>
+            建议客户先提供用途、目标尺寸、喜欢风格、预算区间和期望日期。你可以把这里替换成微信、QQ群、表单或小红书主页。
+          </p>
+        </div>
+        <a class="primary-action" href="mailto:hello@example.com">发送需求</a>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>三维白膜工坊</span>
+      <span>价格为预估区间，最终以模型可打印性和确认方案为准。</span>
+    </footer>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
