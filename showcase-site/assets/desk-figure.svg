@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">桌面摆件整件白膜</title>
+  <desc id="desc">一个桌面摆件白膜坐在底座上，旁边有卡尺和打印耗材卷。</desc>
+  <rect width="900" height="680" fill="#eef4ed"/>
+  <path d="M0 438h900v242H0z" fill="#f3d377"/>
+  <ellipse cx="464" cy="548" rx="252" ry="42" fill="#80651d" opacity=".22"/>
+  <path d="M365 306c0-70 47-124 102-124s102 54 102 124v64H365z" fill="#fffaf0" stroke="#263330" stroke-width="8"/>
+  <path d="M328 370h278c52 0 94 42 94 94v30H234v-30c0-52 42-94 94-94z" fill="#fffaf0" stroke="#263330" stroke-width="8"/>
+  <path d="M368 494h198l48 58H320z" fill="#cfdad5" stroke="#263330" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="430" cy="302" r="12" fill="#263330"/>
+  <circle cx="504" cy="302" r="12" fill="#263330"/>
+  <path d="M430 344c24 18 50 18 74 0" fill="none" stroke="#b75a4d" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="166" cy="402" r="76" fill="none" stroke="#2f8e7e" stroke-width="24"/>
+  <circle cx="166" cy="402" r="30" fill="none" stroke="#2f8e7e" stroke-width="16"/>
+  <rect x="650" y="184" width="42" height="260" rx="8" fill="#263330"/>
+  <rect x="692" y="184" width="72" height="42" rx="6" fill="#fffaf0" stroke="#263330" stroke-width="8"/>
+  <rect x="692" y="402" width="72" height="42" rx="6" fill="#fffaf0" stroke="#263330" stroke-width="8"/>
+  <path d="M704 280h42M704 324h42M704 368h42" stroke="#263330" stroke-width="7" stroke-linecap="round"/>
+</svg>
