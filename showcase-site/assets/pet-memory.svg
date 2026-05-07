@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">宠物纪念摆件白膜样品</title>
+  <desc id="desc">一只宠物纪念摆件放在打印工坊台面上，旁边有色卡和工具。</desc>
+  <defs>
+    <linearGradient id="bench" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8ead2"/>
+      <stop offset="1" stop-color="#d8eee2"/>
+    </linearGradient>
+    <linearGradient id="clay" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset="1" stop-color="#d7d2c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="680" fill="url(#bench)"/>
+  <path d="M0 500c140-42 238-46 332-18 116 34 214 44 326 2 92-34 172-36 242-14v210H0z" fill="#eecf93"/>
+  <ellipse cx="448" cy="548" rx="260" ry="52" fill="#a16d4d" opacity=".18"/>
+  <path d="M376 234c-65 23-104 87-104 159 0 95 76 162 174 162s174-67 174-162c0-72-39-136-104-159-22-8-45-12-70-12s-48 4-70 12z" fill="url(#clay)" stroke="#7c6f61" stroke-width="8"/>
+  <path d="M326 286c-34-24-63-54-83-91-11 61-2 108 33 142z" fill="#f7f1e6" stroke="#7c6f61" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M570 286c34-24 63-54 83-91 11 61 2 108-33 142z" fill="#f7f1e6" stroke="#7c6f61" stroke-width="8" stroke-linejoin="round"/>
+  <circle cx="386" cy="380" r="15" fill="#3f3831"/>
+  <circle cx="510" cy="380" r="15" fill="#3f3831"/>
+  <path d="M448 404l-22 24h44z" fill="#c76b5d"/>
+  <path d="M410 456c26 24 52 24 78 0" fill="none" stroke="#6d5b4c" stroke-width="8" stroke-linecap="round"/>
+  <path d="M303 430c-42-5-78-2-112 10M314 462c-47 10-78 24-112 48M594 430c42-5 78-2 112 10M582 462c47 10 78 24 112 48" stroke="#7c6f61" stroke-width="7" stroke-linecap="round"/>
+  <rect x="84" y="112" width="160" height="42" rx="6" fill="#fef8eb" stroke="#6b8f80" stroke-width="5"/>
+  <rect x="84" y="166" width="120" height="42" rx="6" fill="#9ccfbe"/>
+  <rect x="216" y="166" width="92" height="42" rx="6" fill="#e56f57"/>
+  <rect x="638" y="104" width="148" height="300" rx="8" fill="#23302e"/>
+  <rect x="666" y="132" width="92" height="244" rx="5" fill="#f8ead2"/>
+  <path d="M688 174h48M688 214h48M688 254h48M688 294h48" stroke="#23302e" stroke-width="8" stroke-linecap="round"/>
+</svg>
