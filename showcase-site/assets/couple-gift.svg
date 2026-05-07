@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" role="img" aria-labelledby="title desc">
+  <title id="title">情侣纪念上色成品</title>
+  <desc id="desc">两个上色完成的人物小摆件站在礼物展示底座上。</desc>
+  <rect width="900" height="680" fill="#f8ead2"/>
+  <path d="M0 434h900v246H0z" fill="#d8eee2"/>
+  <rect x="234" y="464" width="432" height="92" rx="8" fill="#263330"/>
+  <path d="M258 464h384v-54H258z" fill="#e56f57" stroke="#263330" stroke-width="8"/>
+  <path d="M450 410v146M258 508h384" stroke="#f0c95d" stroke-width="12"/>
+  <circle cx="360" cy="268" r="82" fill="#e7b68f" stroke="#263330" stroke-width="8"/>
+  <path d="M292 252c22-68 92-96 149-48 15 13 26 30 32 52-52-23-96-24-181-4z" fill="#3b2e2a" stroke="#263330" stroke-width="7"/>
+  <path d="M302 350h116c46 0 84 38 84 84v30H218v-30c0-46 38-84 84-84z" fill="#2f8e7e" stroke="#263330" stroke-width="8"/>
+  <circle cx="540" cy="268" r="82" fill="#efc6a7" stroke="#263330" stroke-width="8"/>
+  <path d="M472 254c16-63 74-91 126-70 39 16 63 44 72 86-52-19-111-23-198-16z" fill="#6b4c38" stroke="#263330" stroke-width="7"/>
+  <path d="M482 350h116c46 0 84 38 84 84v30H398v-30c0-46 38-84 84-84z" fill="#b9d6ef" stroke="#263330" stroke-width="8"/>
+  <circle cx="330" cy="282" r="8" fill="#263330"/>
+  <circle cx="390" cy="282" r="8" fill="#263330"/>
+  <circle cx="512" cy="282" r="8" fill="#263330"/>
+  <circle cx="568" cy="282" r="8" fill="#263330"/>
+  <path d="M344 314c14 12 31 12 47 0M524 314c14 12 31 12 47 0" fill="none" stroke="#9d4f45" stroke-width="6" stroke-linecap="round"/>
+  <path d="M134 140h100M184 90v100M710 120h64M742 88v64" stroke="#e56f57" stroke-width="12" stroke-linecap="round"/>
+</svg>
